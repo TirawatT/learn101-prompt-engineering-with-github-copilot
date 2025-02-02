@@ -7,6 +7,7 @@ comment to create code feact api
 # demo 3
 add param separate
 commit to git
+gen doc for this
 
 # 3
 create project Flask with have REST API and Database connection
